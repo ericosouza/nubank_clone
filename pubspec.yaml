@@ -19,7 +19,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   firebase_auth: 3.3.8
-  # google_sign_in: 5.5.0
 
   flutter_lints: ^1.0.0
 
